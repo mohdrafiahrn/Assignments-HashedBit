@@ -1,0 +1,26 @@
+<!-- Array of Indian cities
+Create an array of popular Indian cities.
+Remove all city names that have more than 8 characters using array.filter().
+Print the new array. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let cities = ["Delhi", "Mumbai", "Bangalore", "Hyderabad", "Chennai", "Kolkata", "Pune", "Ahmedabad", "Jaipur", "Lucknow", "Kanpur", "Nagpur", "Indore", "Bhopal", "Patna", "Ludhiana", "Agra", "Varanasi", "Amritsar", "Surat"];
+
+        let newArray = cities.filter((city)=>{
+            return city.length<=8
+
+        })
+        console.log(newArray)    
+        
+
+    </script>
+</body>
+</html>

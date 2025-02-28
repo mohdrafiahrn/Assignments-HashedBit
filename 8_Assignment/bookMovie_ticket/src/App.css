@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer components {
+    .swiper_buttons {
+        @apply w-[100px] h-[100px] rounded-full border-2 border-white
+    }
+}
+
+body {
+    @apply w-screen bg-gradient-to-b from-[#082134] to-[#0c1014];
+    
+}
+
+.swiper-slide-active{
+    width: 48vw !important;
+}
+
+.swiper-slide-prev, .swiper-slide-next{
+    width: 25vw !important;
+}
+
+.swiper-button-prev::after, .swiper-button-next::after{
+    display: none !important;
+}

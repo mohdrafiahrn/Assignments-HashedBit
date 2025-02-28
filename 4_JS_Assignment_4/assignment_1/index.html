@@ -1,0 +1,26 @@
+<!-- // JS DOM Assignment - Dark Theme
+
+// Complete the task mentioned here - https://jsfiddle.net/hashedbit/hcgw73tb/3/ -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<button id="click" class="btn">Toggle Theme</button>
+
+<body>
+    <script>
+         let click = document.getElementById("click");
+        click.addEventListener("click", ()=>{
+            document.body.style.backgroundColor = document.body.style.backgroundColor === "black" ? "white" : "black"
+        });
+    </script>
+</body>
+
+</html>

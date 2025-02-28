@@ -1,0 +1,30 @@
+<!-- Q3) let string = 'INDIA'
+output = 'INDONESIA'
+Use array.splice
+ -->
+
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ </head>
+ <body>
+    <script>
+        let str = 'INDIA';
+        let arr = str.split("");
+        arr.splice(3, 2, 'O', 'N', 'E', 'S', 'I', 'A');
+        let newStr = arr.join("");
+        document.write(newStr);
+    </script>
+ </body>
+ </html>
+
+ <!-- // Use splice to modify the array arr.splice(
+    3, // First parameter: Starting index (3) — where the modification begins (at 'I' in 'INDIA', indexing start with zero)
+
+    2, // Second parameter: Number of elements to remove (2 characters: 'I' and 'A')
+
+    'O', 'N', 'E', 'S', 'I', 'A'  // Remaining parameters: Elements to insert at index 3 (adding 'ONESIA')
+); -->

@@ -1,0 +1,44 @@
+<!-- JS DOM Assignment - Div Creation
+
+Complete the task mentioned here - https://jsfiddle.net/hashedbit/kzsb54gy/3/
+ -->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Div Creation</title>
+</head>
+<body>
+
+    <button id="createDiv">Create Div</button>
+
+    <script>
+        document.getElementById("createDiv").addEventListener("click", function() {
+            // Create a new div element
+            let newDiv = document.createElement("div");
+            
+            // Set content inside the div
+            newDiv.textContent = "Hello, I am a new div!";
+            
+            // Apply styles
+            newDiv.style.width = "200px";
+            newDiv.style.height = "100px";
+            newDiv.style.backgroundColor = "lightblue";
+            newDiv.style.color = "black";
+            newDiv.style.display = "flex";
+            newDiv.style.alignItems = "center";
+            newDiv.style.justifyContent = "center";
+            newDiv.style.marginTop = "10px";
+            newDiv.style.border = "2px solid black";
+
+            // Append the div to the body
+            document.body.appendChild(newDiv);
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+
+
+.btn {
+    margin-left: 50px;
+    margin-top: 20px;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(42, 224, 42);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn:hover {
+    border: 2px solid rgb(41, 40, 40);
+    color: black;
+    cursor: pointer;
+}

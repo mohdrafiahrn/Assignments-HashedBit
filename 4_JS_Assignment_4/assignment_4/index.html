@@ -1,0 +1,34 @@
+<!-- JS DOM Assignment - Dynamic - CSS
+
+Complete the task mentioned here - https://jsfiddle.net/hashedbit/ojqtk8e1/5/
+ -->
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic CSS</title>
+</head>
+<body>
+
+    <button id="changeStyle">Change Style</button>
+    <p id="text">This is a paragraph whose style will change dynamically.</p>
+
+    <script>
+        let button = document.getElementById("changeStyle");
+        let paragraph = document.getElementById("text");
+
+        button.addEventListener("click", function() {
+            
+            paragraph.style.color = "white"; // text color
+            paragraph.style.backgroundColor = "black"; 
+            paragraph.style.fontSize = "20px";
+            paragraph.style.padding = "10px";
+            paragraph.style.borderRadius = "5px";
+            paragraph.style.textAlign = "center";
+        });
+    </script>
+
+</body>
+</html>

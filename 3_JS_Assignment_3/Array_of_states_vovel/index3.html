@@ -1,0 +1,25 @@
+<!--  Q2: Extract even numbers
+Create an array of numbers from 1 to 50.
+Use array.filter() to create a new array with only even numbers.
+Print the even numbers array. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let array = Array.from({length: 50}, (x, i)=> i + 1)
+        console.log(array)
+
+        let even = array.filter((num)=>{
+            return num%2 ==0
+        })
+
+        console.log(even)
+    </script>
+</body>
+</html>

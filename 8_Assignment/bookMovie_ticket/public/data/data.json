@@ -1,0 +1,339 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "image": "/inception.png",
+    "desc": "A skilled thief, Dom Cobb, is given a chance to erase his criminal history if he can successfully plant an idea into someone's subconscious.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Reeta Sanyal",
+    "image": "/reeya.png",
+    "desc": "An independent woman embarks on a journey to discover herself after facing personal struggles.",
+    "cast": [
+      "Unknown"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "desc": "Batman faces his greatest enemy, the Joker, who brings chaos and anarchy to Gotham City.",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Dangal",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Dangal_Poster.jpg",
+    "desc": "A father trains his daughters to become world-class wrestlers despite societal pressures.",
+    "cast": [
+      "Aamir Khan",
+      "Fatima Sana Shaikh",
+      "Sanya Malhotra"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Avengers: Endgame",
+    "image": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "desc": "The Avengers assemble one final time to undo Thanos' actions and restore balance to the universe.",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Scarlett Johansson"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "3 Idiots",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
+    "desc": "Two friends set out to find their lost college friend while reminiscing about their engineering days.",
+    "cast": [
+      "Aamir Khan",
+      "R. Madhavan",
+      "Sharman Joshi"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Interstellar",
+    "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "desc": "A team of explorers travels through a wormhole in space to ensure humanity's survival.",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Kabir Singh",
+    "image": "/kabir.png",
+    "desc": "A short-tempered surgeon spirals into self-destruction after his girlfriend is forced to marry someone else.",
+    "cast": [
+      "Shahid Kapoor",
+      "Kiara Advani"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Titanic",
+    "image": "/titanic.png",
+    "desc": "A romantic tragedy about the ill-fated Titanic voyage and the love story of Jack and Rose.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Bahubali: The Beginning",
+    "image": "/bahubali.png",
+    "desc": "A young man learns about his royal heritage and his destiny to reclaim his throne.",
+    "cast": [
+      "Prabhas",
+      "Rana Daggubati",
+      "Anushka Shetty"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "The Matrix",
+    "image": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "desc": "A hacker discovers the true nature of his reality and his role in the war against its controllers.",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Gangs of Wasseypur",
+    "image": "/wasseypur.png",
+    "desc": "A tale of power, revenge, and crime spanning generations in the coal mafia of Dhanbad.",
+    "cast": [
+      "Manoj Bajpayee",
+      "Nawazuddin Siddiqui",
+      "Richa Chadha"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Jurassic Park",
+    "image": "/jurasic.png",
+    "desc": "A group of visitors must survive an island full of dinosaurs after a catastrophic failure of its security system.",
+    "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Lagaan",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Lagaan.jpg",
+    "desc": "A small village challenges British rule through a game of cricket to avoid paying high taxes.",
+    "cast": [
+      "Aamir Khan",
+      "Gracy Singh",
+      "Paul Blackthorne"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "The Godfather",
+    "image": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "desc": "The aging patriarch of a powerful crime dynasty transfers control to his reluctant son.",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "PK",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/PK_poster.jpg",
+    "desc": "An alien stranded on Earth questions religious beliefs and superstitions through his innocent perspective.",
+    "cast": [
+      "Aamir Khan",
+      "Anushka Sharma",
+      "Sushant Singh Rajput"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Fight Club",
+    "image": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "desc": "An insomniac office worker and a devil-may-care soap maker form an underground fight club.",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Zindagi Na Milegi Dobara",
+    "image": "/zindagi_na milegi.png",
+    "desc": "Three friends go on a bachelor road trip across Spain, experiencing life-changing moments.",
+    "cast": [
+      "Hrithik Roshan",
+      "Farhan Akhtar",
+      "Abhay Deol"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Deadpool",
+    "image": "https://image.tmdb.org/t/p/w500/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
+    "desc": "A former special forces operative turned mercenary seeks revenge after an experiment leaves him with healing powers.",
+    "cast": [
+      "Ryan Reynolds",
+      "Morena Baccarin",
+      "T.J. Miller"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Chak De! India",
+    "image": "/chak de india.png",
+    "desc": "A former Indian hockey captain coaches an underdog women's team to glory.",
+    "cast": [
+      "Shah Rukh Khan",
+      "Vidya Malvade",
+      "Sagarika Ghatge"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "The Avengers",
+    "image": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "desc": "Nick Fury assembles a team of superheroes to stop Loki and his army from invading Earth.",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Andhadhun",
+    "image": "/andhadhun.png",
+    "desc": "A blind pianist's life turns chaotic when he witnesses a murder he wasn't supposed to.",
+    "cast": [
+      "Ayushmann Khurrana",
+      "Tabu",
+      "Radhika Apte",
+      "Anil Dhawan"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Gladiator",
+    "image": "/gladiator.png",
+    "desc": "A betrayed Roman general seeks vengeance against the corrupt emperor who murdered his family.",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Oliver Reed"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Gully Boy",
+    "image": "/gully boy.png",
+    "desc": "A young rapper from Mumbai's streets follows his dream while facing societal struggles.",
+    "cast": [
+      "Ranveer Singh",
+      "Alia Bhatt",
+      "Siddhant Chaturvedi",
+      "Vijay Raaz"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Iron Man",
+    "image": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "desc": "A billionaire genius creates a high-tech suit to fight evil and protect the world.",
+    "cast": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow",
+      "Jeff Bridges",
+      "Terrence Howard"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Bajrangi Bhaijaan",
+    "image": "/bajrangi.png",
+    "desc": "A kind-hearted Indian man embarks on a journey to reunite a mute Pakistani girl with her family.",
+    "cast": [
+      "Salman Khan",
+      "Harshaali Malhotra",
+      "Nawazuddin Siddiqui",
+      "Kareena Kapoor"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Spider-Man: No Way Home",
+    "image": "/spider.png",
+    "desc": "Spider-Man seeks help from Doctor Strange to fix his identity crisis, leading to multiversal chaos.",
+    "cast": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch",
+      "Willem Dafoe"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Dilwale Dulhania Le Jayenge",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/80/Dilwale_Dulhania_Le_Jayenge_poster.jpg",
+    "desc": "A love story where a young man must win over his beloved's conservative family.",
+    "cast": [
+      "Shah Rukh Khan",
+      "Kajol",
+      "Amrish Puri",
+      "Anupam Kher"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Doctor Strange",
+    "image": "/drstrange.png",
+    "desc": "A brilliant neurosurgeon embarks on a mystical journey to become the Sorcerer Supreme.",
+    "cast": [
+      "Benedict Cumberbatch",
+      "Chiwetel Ejiofor",
+      "Rachel McAdams",
+      "Mads Mikkelsen"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "K.G.F: Chapter 1",
+    "image": "/kgf.png",
+    "desc": "A powerful underdog rises to dominate the dangerous world of gold mining in India.",
+    "cast": [
+      "Yash",
+      "Srinidhi Shetty",
+      "Anant Nag",
+      "Ramachandra Raju"
+    ]
+  }
+]

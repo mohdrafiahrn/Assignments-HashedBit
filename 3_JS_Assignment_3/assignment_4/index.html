@@ -1,0 +1,34 @@
+<!-- Q4) Take any string with minimum 20 characters. Count number of consonant and vowel in the string. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let str = "The quick brown fox jumps over the lazy dog";
+
+        let vovels = "a,e,i,o,u"
+        let vovelCount = 0;
+        let consonantCount = 0;
+
+        let newStr = str.toLowerCase();
+
+        newStr.split("").map((char)=>{
+            if(vovels.includes(char)){
+                return vovelCount++
+            }
+            else if( char>='a' && char<='z'){
+                return consonantCount++
+            }
+                
+        })
+
+        console.log(vovelCount);
+        console.log(consonantCount)
+    </script>
+</body>
+</html>
